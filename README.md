@@ -1,4 +1,4 @@
-# Data aggregation and map classification
+# Data Aggregation and Map Classification
 <i>Exercise 4 of Automating GIS Process 2023</i> 
 
 ## Overview
