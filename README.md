@@ -6,7 +6,7 @@ The goal of this project is to visualise the travel time from every place of the
 
 <div align="center">
   <img src="images/front_1.png" alt="classification" width="700">
-  <img src="images/front_2.png" alt="dominace_areas" width="720">
+  <img src="images/front_2.png" alt="dominace_areas" width="700">
 </div>
 
 The project composes of several steps:
