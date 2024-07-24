@@ -9,10 +9,10 @@ The goal of this project is to visualise the travel time from every place of the
 </div>
 
 The project composes of several steps:
-1. Merge spatial data with non-spatial data
-2. Apply choropleth map classification and plot the graphs
-3. Compute the closest shopping mall and the minimum travel time for each location
-4. Plot the areas of dominance shopping centres and the minimum travel time
+1. merge spatial data with non-spatial data
+2. apply choropleth map classification and plot the graphs
+3. compute the closest shopping mall and the minimum travel time for each location
+4. plot the areas of dominance shopping centres and the minimum travel time
 
 ## Software and Libaries
 - Python 3.9
