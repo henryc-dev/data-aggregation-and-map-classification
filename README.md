@@ -5,8 +5,8 @@
 The goal of this project is to visualise the travel time from every place of the metropolitan area to seven major shopping centres of Helsinki, Finland. It can act as the first step to determine good locations for housing in the city.
 
 <div align="center">
-  <img src="images/front_1.png" alt="classification" width="800">
-  <img src="images/front_2.png" alt="dominace_areas" width="820">
+  <img src="images/front_1.png" alt="classification" width="700">
+  <img src="images/front_2.png" alt="dominace_areas" width="720">
 </div>
 
 The project composes of several steps:
