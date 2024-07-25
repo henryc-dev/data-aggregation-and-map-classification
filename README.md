@@ -24,3 +24,6 @@ The project composes of several steps:
 - Jupyter Notebook
 
 ## Related Projects
+- Project 1: <a href="https://github.com/hcheung-dev/creating-and-storing-geometries">creating-and-storing-geometries</a>
+- Project 2: <a href="https://github.com/hcheung-dev/spatial-analysis-with-geopandas">spatial-analysis-with-geopandas</a>
+- Project 3: <a href="https://github.com/hcheung-dev/population-around-shopping-centres">population-around-shopping-centres</a>
