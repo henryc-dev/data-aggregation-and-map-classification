@@ -15,7 +15,7 @@ The project composes of several steps:
 3. compute the closest shopping mall and the minimum travel time for each location
 4. plot the areas of dominance shopping centres and the minimum travel time
 
-## Software and Libaries
+## Software and Libraries
 - Python 3.9
 - NumPy
 - Pandas
